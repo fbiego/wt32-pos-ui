@@ -32,7 +32,7 @@
 
 
 #define PORTRAIT // comment for landscape
-// #define USE_UI  // uncomment to use ui files exported on /ui/ folder from squareline studio
+#define USE_UI  // uncomment to use ui files exported on /ui/ folder from squareline studio
 
 
 
